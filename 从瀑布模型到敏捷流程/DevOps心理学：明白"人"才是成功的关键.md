@@ -1,13 +1,14 @@
-# DevOps心理学：明白"人"才是成功的关键
+ DevOps心理学：明白"人"才是成功的关键
 _(The psychology of DevOps: Understanding people is key to success)_
-***
+===
+
 ### 作者：[Todd DeLaughter](https://techbeacon.com/contributors/todd-delaughter), CEO, Automic Software
 
-“The human mind,” said sociologist Charles Horton Cooley, is “a cave swarming with strange forms of life, most of them unconscious and unilluminated. Unless we can understand something as to how the motives that issue from this obscurity are generated, we can hardly hope to foresee or control them.”
+社会学家库里认为，“人的脑海是一个充满奇思怪想的洞穴，许多的想法是无意识和潜藏的。除非我们能明白一些规律，比如这些朦胧想法的动机是如何产生的，否则我们很难去期望能够预见或控制这些想法。”
 
-The late Dr. Cooley would have made a great DevOps consultant.
+已故的库里博士本可以成为一个伟大的DevOps顾问的。
 
-DevOps—the methodology that calls for software developers and operations teams to emerge from their silos and work closely to allow more frequent releases of code into production—is not only one of the hotter buzzwords in IT, but also one of the very few modes of software development and deployment that emphasize people over technology (though implementation certainly relies on tools and processes).
+DevOps，一种开发人员和运维人员摆脱困境并密切合作以期更频繁地发布代码到生产环境中的方法——不仅是IT领域中的热门词汇，更是一种少见的软件开发模式及强调人员而不是技术的软件部署模式（尽管部署的实施肯定要依赖于工具和流程）。
 
 As a result, I would argue that the discipline that teaches us most about DevOps isn’t computer science or engineering but psychology. That’s a reality organizations need to be mindful of (pun intended) as DevOps grows, in Gartner’s words, “from a niche strategy employed by large cloud providers to a mainstream strategy employed by 25 percent of Global 2000 organizations” by the end of this year. Here are the implications.
 
