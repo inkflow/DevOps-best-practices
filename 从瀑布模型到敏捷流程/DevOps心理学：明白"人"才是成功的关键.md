@@ -1,6 +1,6 @@
 # DevOps心理学：明白"人"才是成功的关键
 _(The psychology of DevOps: Understanding people is key to success)_
-===
+
 ### 作者：[Todd DeLaughter](https://techbeacon.com/contributors/todd-delaughter), CEO, Automic Software
 
 “The human mind,” said sociologist Charles Horton Cooley, is “a cave swarming with strange forms of life, most of them unconscious and unilluminated. Unless we can understand something as to how the motives that issue from this obscurity are generated, we can hardly hope to foresee or control them.”
