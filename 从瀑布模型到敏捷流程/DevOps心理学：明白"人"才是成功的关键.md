@@ -1,4 +1,5 @@
-DevOps心理学：明白"人"才是成功的关键.md
+DevOps心理学：明白"人"才是成功的关键
+
 _(The psychology of DevOps: Understanding people is key to success)_
 ===
 ## 作者：Todd DeLaughter, CEO, Automic Software
