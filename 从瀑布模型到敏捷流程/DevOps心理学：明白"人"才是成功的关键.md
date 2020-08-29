@@ -6,7 +6,11 @@ _(The psychology of DevOps: Understanding people is key to success)_
 
 社会学家库里认为，“人的脑海是一个充满奇思怪想的洞穴，许多的想法是无意识和潜藏的。除非我们能明白一些规律，比如这些朦胧想法的动机是如何产生的，否则我们很难去期望能够预见或控制这些想法。”
 
+“The human mind,” said sociologist Charles Horton Cooley, is “a cave swarming with strange forms of life, most of them unconscious and unilluminated. Unless we can understand something as to how the motives that issue from this obscurity are generated, we can hardly hope to foresee or control them.”
+
 已故的库里博士本可以成为一个伟大的DevOps顾问的。
+
+The late Dr. Cooley would have made a great DevOps consultant.
 
 DevOps，一种开发人员和运维人员密切合作、脱离局限，以期更频繁地发布代码到生产环境中的方法 —— 它不仅是IT领域中的热门词汇，更是一种少见的软件开发模式，一种强调人员而不是技术的软件部署模式（尽管部署的实施肯定要依赖于工具和流程）。
 
@@ -14,8 +18,7 @@ DevOps，一种开发人员和运维人员密切合作、脱离局限，以期�
 
 [ 获取演讲: 企业级DevOps之旅：坚定地走向DevOps（The Journey to Enterprise‐Scale DevOps: Becoming DevOps Determined） ](https://www.microfocus.com/en-us/assets/application-delivery-management/the-journey-to-becoming-devops-determined?utm_campaign=00134846)
 
-## DevOps on the psychiatric couch
-## DevOps精神舒适区
+## 心理舒适区的DevOps（DevOps on the psychiatric couch）
 应用DevOps，对开发人员和运维人员传统的“政教分离”情况，产生了一种戏剧性的文化转变。它容易引发一些可以破坏组织DevOps转型的情绪化陷阱，就如“菲尔博士小插曲”。害怕冲突和改变，失去掌控感，个体为自我思考 —— 这些只是DevOps转型会带来的问题中的一小部分。
 Because adopting DevOps represents such a dramatic cultural shift in the traditional church-and-state separation between those who develop and test code and those who deploy and maintain it, you could fill a “Dr. Phil” episode with the emotional pitfalls that can sabotage an organization's DevOps journey. Fear of change, conflict, loss of control, and self-serving thinking—these are just a few of the issues that can arise.
 
