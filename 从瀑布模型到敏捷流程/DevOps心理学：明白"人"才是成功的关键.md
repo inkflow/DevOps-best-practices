@@ -11,7 +11,6 @@ _(The psychology of DevOps: Understanding people is key to success)_
 DevOps，一种开发人员和运维人员密切合作、脱离局限，以期更频繁地发布代码到生产环境中的方法 —— 它不仅是IT领域中的热门词汇，更是一种少见的软件开发模式，一种强调人员而不是技术的软件部署模式（尽管部署的实施肯定要依赖于工具和流程）。
 
 事先声明，我要强调一条原则，DevOps不是计算机科学或工程学，而是心理学。这是一个实际的组织在推广DevOps时必须牢记的（一语双关）。Gartner在今年年底说过，“DevOps已从大型云服务提供商这一细分市场所使用的策略转变为全球2000个组织中的25%都在采用的主流策略”。这是他演讲的链接。
-As a result, I would argue that the discipline that teaches us most about DevOps isn’t computer science or engineering but psychology. That’s a reality organizations need to be mindful of (pun intended) as DevOps grows, in Gartner’s words, “from a niche strategy employed by large cloud providers to a mainstream strategy employed by 25 percent of Global 2000 organizations” by the end of this year. Here are the implications.
 
 [ 获取演讲: 企业级DevOps之旅：坚定地走向DevOps（The Journey to Enterprise‐Scale DevOps: Becoming DevOps Determined） ](https://www.microfocus.com/en-us/assets/application-delivery-management/the-journey-to-becoming-devops-determined?utm_campaign=00134846)
 
