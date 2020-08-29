@@ -16,7 +16,7 @@ DevOps，一种开发人员和运维人员密切合作、脱离局限，以期�
 
 ## DevOps的心理舒适区
 应用DevOps，对开发人员和运维人员传统的“政教分离”情况，产生了一种戏剧性的文化转变。它容易引发一些可以破坏组织DevOps转型的情绪化陷阱，就如“菲尔博士小插曲”。害怕冲突和改变，失去掌控感，利己式的想法 —— 这些只是DevOps转型会带来的问题中的一小部分。
-这些塑造了DevOps的心理力量，可以追溯到它的童年时期。开发人员会是最先去推动与产品方加强合作的一方，当他们承受着以惊人的速度创造新产品和新特性的压力时。而运维人员则会更慢。
+这些塑造了DevOps的心理力量，可以追溯到DevOps发展的童年时期。当开发人员承受着以惊人的速度创造新产品和新特性的压力时，他们会是最先去推动与产品方加强合作的一方。而运维人员则会更慢。
 
 ## The great schism
 So a disconnect has existed from the start. Developers want to roll out new software constantly, as more organizations move to a continuous delivery (CD) model. CD was pioneered by digitally native companies such as Amazon, Netflix, and more recently Uber, and many development teams envy the velocity they see among those companies.
