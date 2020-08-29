@@ -8,13 +8,16 @@ _(The psychology of DevOps: Understanding people is key to success)_
 
 已故的库里博士本可以成为一个伟大的DevOps顾问的。
 
-DevOps，一种开发人员和运维人员摆脱困境并密切合作以期更频繁地发布代码到生产环境中的方法——不仅是IT领域中的热门词汇，更是一种少见的软件开发模式及强调人员而不是技术的软件部署模式（尽管部署的实施肯定要依赖于工具和流程）。
+DevOps，一种开发人员和运维人员密切合作、脱离局限，以期更频繁地发布代码到生产环境中的方法 —— 它不仅是IT领域中的热门词汇，更是一种少见的软件开发模式，一种强调人员而不是技术的软件部署模式（尽管部署的实施肯定要依赖于工具和流程）。
 
+事先声明，我要强调一条原则，DevOps不是计算机科学或工程学，而是心理学。这是一个实际的组织在推广DevOps时必须牢记的（一语双关）。Gartner在今年年底说过，“DevOps已从大型云服务提供商这一细分市场所使用的策略转变为全球2000个组织中的25%都在采用的主流策略”。这是他演讲的链接。
 As a result, I would argue that the discipline that teaches us most about DevOps isn’t computer science or engineering but psychology. That’s a reality organizations need to be mindful of (pun intended) as DevOps grows, in Gartner’s words, “from a niche strategy employed by large cloud providers to a mainstream strategy employed by 25 percent of Global 2000 organizations” by the end of this year. Here are the implications.
 
-[ Get Report: The Journey to Enterprise‐Scale DevOps: Becoming DevOps Determined ](https://www.microfocus.com/en-us/assets/application-delivery-management/the-journey-to-becoming-devops-determined?utm_campaign=00134846)
+[ 获取演讲: 企业级DevOps之旅：坚定地走向DevOps（The Journey to Enterprise‐Scale DevOps: Becoming DevOps Determined） ](https://www.microfocus.com/en-us/assets/application-delivery-management/the-journey-to-becoming-devops-determined?utm_campaign=00134846)
 
 ## DevOps on the psychiatric couch
+## DevOps精神舒适区
+应用DevOps，对开发人员和运维人员传统的“政教分离”情况，产生了一种戏剧性的文化转变。它容易引发一些可以破坏组织DevOps转型的情绪化陷阱，就如“菲尔博士小插曲”。害怕冲突和改变，失去掌控感，个体为自我思考 —— 这些只是DevOps转型会带来的问题中的一小部分。
 Because adopting DevOps represents such a dramatic cultural shift in the traditional church-and-state separation between those who develop and test code and those who deploy and maintain it, you could fill a “Dr. Phil” episode with the emotional pitfalls that can sabotage an organization's DevOps journey. Fear of change, conflict, loss of control, and self-serving thinking—these are just a few of the issues that can arise.
 
 The psychological forces that have shaped DevOps can be traced to its childhood. Under pressure to create new products and features at breakneck speed, the “Devs” were the first to drive the conversation on stronger collaboration with the production side. The “Ops” were slow to commit.
