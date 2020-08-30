@@ -37,7 +37,7 @@ _注：以下实践准则已经按它们最合适出现的阶段划分，以望�
 - [拥抱失败](https://www.thebalance.com/steve-jobs-and-how-embracing-failure-saved-apple-1200640)
 - [适用于康威定律](https://haacked.com/archive/2013/05/13/applying-conways-law.aspx/)
 
-## Agile to Lean
+## 从敏捷到精益
 
 - [Continuous Improvement](https://en.wikipedia.org/wiki/Kaizen) - An “improvement,” or “change for the better” which refers to a philosophy or practices that focus on continuous improvement of processes in manufacturing, engineering, game development, and business management.
 - [Reduce waste](https://itrevolution.com/japanese-words-for-devops-practitioners/)
@@ -54,7 +54,7 @@ _注：以下实践准则已经按它们最合适出现的阶段划分，以望�
 - [High trust culture](https://gotocon.com/dl/goto-cph-sept-2014/slides/JezHumble_LeanEnterprisePartII.pdf)
 - [Address Technical Debt](https://18f.gsa.gov/2015/09/04/what-is-technical-debt/)
 
-## Lean to Continuous Integration
+## 从精益到持续集成
 
 - ["cattle rather than pets"](https://www.theregister.co.uk/2013/03/18/servers_pets_or_cattle_cern/) - the paradigm of disposable server infrastructure.
 - [Achieving 10 deployments per day](https://www.youtube.com/watch?v=LdOe18KhtT4) - the story of how Flickr adopted DevOps.
@@ -68,7 +68,7 @@ _注：以下实践准则已经按它们最合适出现的阶段划分，以望�
 - [Shift left](https://dzone.com/articles/the-shift-left-principle-and-devops-1)
 - [Testing as code](http://www.bbc.co.uk/blogs/internet/entries/ff14236d-098a-3565-b678-ff4ba5776a5f) - Use the gherkin language "[Business Readable, Domain Specific Language](https://martinfowler.com/bliki/BusinessReadableDSL.html)", for manual as well as automated. Keep all your tests with your code, use version control to track changes.
 
-## Continuous Integration to Continuous Delivery
+## 从持续集成到持续交付
 
 - [Continuous Delivery](https://techbeacon.com/agile-devops-continuous-delivery-evolution-software-delivery) - Continuous Delivery is a key part of the evolution of adopting a DevOps culture.
 - [Deployment Pipelines](https://continuousdelivery.com/implementing/patterns/) - Get humans out of the deployment business. Create a repeatable, reliable process for releasing software.
@@ -82,14 +82,14 @@ _注：以下实践准则已经按它们最合适出现的阶段划分，以望�
 - [Pipelines as code](http://inedo.com/blog/pipelines-as-code-how-you-can-fully-embrace-agile-and-devops)
 - [Decrease lead time](https://techbeacon.com/doing-continuous-delivery-focus-first-reducing-release-cycle-times)
 
-## Continuous Delivery to Continuous Deployment
+## 从持续交付到持续部署
 
 - [Feature Toggles](https://martinfowler.com/bliki/FeatureToggle.html) rather than feature branches, avoiding merge hell and more control over features and deployments.
 - [Infrastructure as Code](https://stochasticresonance.wordpress.com/2009/07/12/infrastructure-renaissance/) - Using orchestration and provisioning tools such as Terraform, Docker, Kubernetes, Ansible, Chef, Puppet.
 - [Done means released](https://blog.codecentric.de/en/2010/10/devopsdays-in-hamburg-%E2%80%9Cdone%E2%80%9D-means-released/)
 - [Everybody is responsible for delivery](http://blog.macisaacconsulting.com/continuous-delivery-everybody-responsible-quality/)
 
-## Continuous Deployment to Continuous Operations
+## 从持续部署到持续运维
 
 - [Blue Green Deployments](https://martinfowler.com/bliki/BlueGreenDeployment.html)
 - [Put devs on call](https://victorops.com/putting-devs-on-call/) - Developers are responsible for monitoring and alerting
