@@ -12,30 +12,30 @@ DevOps在不断演变。目前，DevOps[不存在认证、角色、系列工具�
 
 <!--more-->
 
-_注：以下实践准则已经按它们最合适出现的阶段划分，以望读者能更容易地理解……虽然并不能保证这种划分一定准确_
+_注：以下实践准则已经按它们最合适出现的阶段划分，以望读者能更容易地理解……虽然并不能保证这种划分一定准确。_
 
-## Waterfall to Agile
+## 从瀑布模型到敏捷流程
 
-- [People are the key](https://techbeacon.com/psychology-devops-understanding-people-key-success) - Get everyone together at the beginning. Keep meeting. Make it easy for everyone to see what’s happening.
-- [Products not projects](https://www.madetech.com/blog/products-not-projects) - Delivery teams run software products, not projects, that run from inception to retirement.
-- [Keep everything in version control](https://www.ibm.com/developerworks/library/a-devops6/index.html), all code should be under version control, allowing for code development and review, source code management tools, code merging.
-- [Culture](https://martinfowler.com/bliki/DevOpsCulture.html) - There's [t-shirts](https://www.redbubble.com/shop/devops+t-shirts), [songs](https://www.youtube.com/watch?v=pebIr4F-vjQ), [music videos](https://www.youtube.com/watch?v=iYLxw6OsZug), [podcasts](http://devopscafe.org/), [books](https://medium.com/devopslinks/10-great-books-for-aspiring-devops-sre-engineers-76536c7c4909). DevOps is as much about preaching as it is practicing.
-- [Kanban](http://blog.crisp.se/mattiasskarin/files/slides/introducing_kanban_in_operations.pdf) - Being able to limit the flow of work to a given worker is key, you must limit work in progress.
-- [Domain Driven Design](https://www.thoughtworks.com/insights/blog/domain-driven-design-services-architecture)
-- [System metaphor](https://en.wikibooks.org/wiki/Software_Engineering_with_an_Agile_Development_Framework/Iteration_One/System_metaphor)
-- [Systems thinking](https://en.wikipedia.org/wiki/Systems_theory)
-- [Two Pizza Teams](http://blog.idonethis.com/two-pizza-team/)
-- [Prioritisation - Work on the most important thing first](http://www.theagilemindset.co.uk/the-scrum-philosophy/)
-- [Use analogies to communicate important concepts](http://www.techrepublic.com/blog/10-things/10-ways-to-explain-things-more-effectively/)
-- [Blameless Post-Mortems](https://codeascraft.com/2012/05/22/blameless-postmortems/)
-- [Release early, release often](http://www.catb.org/esr/writings/homesteading/cathedral-bazaar/ar01s04.html) - until code is in production, no value is actually being generated. [If it hurts, do it more often](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html), and bring the pain forward.
-- Release often - [How to eat an elephant - one bite at a time](https://www.linkedin.com/pulse/how-eat-elephant-one-bite-time-asia-shahzad/)
-- Listen to customers - Close the loop, focus on building a great product that people want to use
-- [Specification by Example](https://www.thoughtworks.com/insights/blog/specification-example)
-- [Shu-Ha-Ri](https://martinfowler.com/bliki/ShuHaRi.html) - Follow the rule, break the rule, be the rule.
-- [Sacrificial Architecture](https://martinfowler.com/bliki/SacrificialArchitecture.html)
-- [Embrace failure](https://www.thebalance.com/steve-jobs-and-how-embracing-failure-saved-apple-1200640)
-- [Apply Conway's law](https://haacked.com/archive/2013/05/13/applying-conways-law.aspx/)
+- [人才是关键](https://techbeacon.com/psychology-devops-understanding-people-key-success) - 一开始就把所有人聚集在一起起。保持站会。 让每个人都能更轻易地知道发生了什么。
+- [是产品而不是项目](https://www.madetech.com/blog/products-not-projects) - 交付团队从软件上线到下线，运转的是软件产品而不是项目。
+- [每件事都要做版本控制](https://www.ibm.com/developerworks/library/a-devops6/index.html), 所有的代码都应该处在版本控制下，以便能够进行代码开发、评审，以及能应用于源代码管理工具和代码合并。
+- [文化](https://martinfowler.com/bliki/DevOpsCulture.html) - 这里有[T恤](https://www.redbubble.com/shop/devops+t-shirts), [歌曲](https://www.youtube.com/watch?v=pebIr4F-vjQ), [MV](https://www.youtube.com/watch?v=iYLxw6OsZug), [广播](http://devopscafe.org/), [书籍](https://medium.com/devopslinks/10-great-books-for-aspiring-devops-sre-engineers-76536c7c4909). DevOps的文化传播与实践一样重要。
+- [看板](http://blog.crisp.se/mattiasskarin/files/slides/introducing_kanban_in_operations.pdf) - 能够将工作流限制在给定的工人上是很关键的，你必须限制在制品数量。
+- [域驱动设计](https://www.thoughtworks.com/insights/blog/domain-driven-design-services-architecture)
+- [系统类比](https://en.wikibooks.org/wiki/Software_Engineering_with_an_Agile_Development_Framework/Iteration_One/System_metaphor)
+- [系统化思考](https://en.wikipedia.org/wiki/Systems_theory)
+- [最多能吃两个披萨的队伍](http://blog.idonethis.com/two-pizza-team/)
+- [优先级 - 最先处理最重要的事](http://www.theagilemindset.co.uk/the-scrum-philosophy/)
+- [使用类比来讨论重要概念](http://www.techrepublic.com/blog/10-things/10-ways-to-explain-things-more-effectively/)
+- [无罪化的后遗症](https://codeascraft.com/2012/05/22/blameless-postmortems/)
+- [提早发布，频繁发布](http://www.catb.org/esr/writings/homesteading/cathedral-bazaar/ar01s04.html) - 在代码进入生产环境前，实际上没产生任何价值。[如果这样做很痛苦，请更要经常做](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html)，提前去经历它。
+- 频繁发布 - [如何吃掉一头大象 - 一次咬一口](https://www.linkedin.com/pulse/how-eat-elephant-one-bite-time-asia-shahzad/)
+- 聆听消费者的需求。 - 形成闭环，专注于构建人们想要使用的伟大产品。
+- [举例说明](https://www.thoughtworks.com/insights/blog/specification-example)
+- [守-破-离](https://martinfowler.com/bliki/ShuHaRi.html) - 遵守规则，打破规则，演化规则。
+- [牺牲性建筑](https://martinfowler.com/bliki/SacrificialArchitecture.html)
+- [拥抱失败](https://www.thebalance.com/steve-jobs-and-how-embracing-failure-saved-apple-1200640)
+- [适用于康威定律](https://haacked.com/archive/2013/05/13/applying-conways-law.aspx/)
 
 ## Agile to Lean
 
