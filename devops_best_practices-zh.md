@@ -28,7 +28,7 @@ _注：以下实践准则已经按它们最合适出现的阶段划分，以望�
 - [优先级 - 最先处理最重要的事](http://www.theagilemindset.co.uk/the-scrum-philosophy/)
 - [使用类比来讨论重要概念](http://www.techrepublic.com/blog/10-things/10-ways-to-explain-things-more-effectively/)
 - [无罪化的后遗症](https://codeascraft.com/2012/05/22/blameless-postmortems/)
-- [提早发布，频繁发布](http://www.catb.org/esr/writings/homesteading/cathedral-bazaar/ar01s04.html) - 在代码进入生产环境前，实际上没产生任何价值。[如果这样做很痛苦，请更要经常做](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html)，提前去经历它。
+- [尽早发布，频繁发布](http://www.catb.org/esr/writings/homesteading/cathedral-bazaar/ar01s04.html) - 在代码进入生产环境前，实际上没产生任何价值。[如果这样做很痛苦，请更要经常做](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html)，提前去经历它。
 - 频繁发布 - [如何吃掉一头大象 - 一次咬一口](https://www.linkedin.com/pulse/how-eat-elephant-one-bite-time-asia-shahzad/)
 - 聆听消费者的需求 - 形成闭环，专注于构建人们想要使用的伟大产品。
 - [举例说明](https://www.thoughtworks.com/insights/blog/specification-example)
@@ -44,7 +44,7 @@ _注：以下实践准则已经按它们最合适出现的阶段划分，以望�
 - [别做孤岛](https://continuousdelivery.com/2012/10/theres-no-such-thing-as-a-devops-team/) - 跨职能团队，T型能力者，共同承担责任的态度是DevOps的文化内容之一，DevOps鼓励紧密的[协作](https://blog.chef.io/2017/03/01/devops-is-all-about-collaboration/)。
 - [关键绩效指标](https://www.atlassian.com/devops#measurement) - 管理学思想家“彼得·德鲁克”经常被引述的话是，“你无法改善那些你无法量化的（指标）”。
 - [用户故事的非功能需求](https://legacy.devopsdays.org/blog/wp-content/uploads/2010/02/rachel-davies-nonfunctional-devopsdays.pdf)
-- [Minimum viable product](http://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
+- [最小化可行产品](http://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
 - [一场旅程，而不是目的地](https://notafactoryanymore.com/2015/08/14/a-personal-devops-journey-or-a-never-ending-journey-to-mastery/)
 - [拥抱变化](https://www.theregister.co.uk/2016/01/15/devops_people_problem/)
 - [构建正确的事物，以正确方式构建](https://barryoreilly.com/2016/10/06/10-principles-to-transform/)
