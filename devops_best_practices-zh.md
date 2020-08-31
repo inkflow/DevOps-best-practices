@@ -30,7 +30,7 @@ _注：以下实践准则已经按它们最合适出现的阶段划分，以望�
 - [无罪化的后遗症](https://codeascraft.com/2012/05/22/blameless-postmortems/)
 - [提早发布，频繁发布](http://www.catb.org/esr/writings/homesteading/cathedral-bazaar/ar01s04.html) - 在代码进入生产环境前，实际上没产生任何价值。[如果这样做很痛苦，请更要经常做](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html)，提前去经历它。
 - 频繁发布 - [如何吃掉一头大象 - 一次咬一口](https://www.linkedin.com/pulse/how-eat-elephant-one-bite-time-asia-shahzad/)
-- 聆听消费者的需求。 - 形成闭环，专注于构建人们想要使用的伟大产品。
+- 聆听消费者的需求 - 形成闭环，专注于构建人们想要使用的伟大产品。
 - [举例说明](https://www.thoughtworks.com/insights/blog/specification-example)
 - [守-破-离](https://martinfowler.com/bliki/ShuHaRi.html) - 遵守规则，打破规则，演化规则。
 - [牺牲性建筑](https://martinfowler.com/bliki/SacrificialArchitecture.html)
@@ -40,7 +40,7 @@ _注：以下实践准则已经按它们最合适出现的阶段划分，以望�
 ## 从敏捷到精益
 
 - [持续改进](https://en.wikipedia.org/wiki/Kaizen) - “改进”，或者说“变得更好”，指的是专注于持续改进制造、工程、游戏开发、业务管理的流程的理念或实践。
-- [减少浪费(https://itrevolution.com/japanese-words-for-devops-practitioners/)
+- [减少浪费](https://itrevolution.com/japanese-words-for-devops-practitioners/)
 - [别做孤岛](https://continuousdelivery.com/2012/10/theres-no-such-thing-as-a-devops-team/) - 跨职能团队，T型能力者，共同承担责任的态度是DevOps的文化内容之一，DevOps鼓励紧密的[协作](https://blog.chef.io/2017/03/01/devops-is-all-about-collaboration/)。
 - [关键绩效指标](https://www.atlassian.com/devops#measurement) - 管理学思想家“彼得·德鲁克”经常被引述的话是，“你无法改善那些你无法量化的（指标）”。
 - [用户故事的非功能需求](https://legacy.devopsdays.org/blog/wp-content/uploads/2010/02/rachel-davies-nonfunctional-devopsdays.pdf)
@@ -72,7 +72,7 @@ _注：以下实践准则已经按它们最合适出现的阶段划分，以望�
 
 - [持续交付](https://techbeacon.com/agile-devops-continuous-delivery-evolution-software-delivery) - 持续交付是融入DevOps文化的发展进程中的关键一步。
 - [部署流水线](https://continuousdelivery.com/implementing/patterns/) - 让人工远离部署工作。创造一组可重复的、可靠的软件发布流程。
-- [基于主干的开发](https://www.thoughtworks.com/insights/blog/enabling-trunk-based-development-deployment-pipelines) - 转向主干开发模式是([走向持续部署的重要一步](https://engineering.moonpig.com/development/move-to-trunk-based-development-without-the-chaos)).
+- [基于主干的开发](https://www.thoughtworks.com/insights/blog/enabling-trunk-based-development-deployment-pipelines) - 转向主干开发模式是[走向持续部署的重要一步](https://engineering.moonpig.com/development/move-to-trunk-based-development-without-the-chaos).
 - [生产就绪型软件](https://www.slideshare.net/jezhumble/devops-and-agile-release-management) - 每次变更代码、基础设施、配置时，都能快速、自动地反馈生产环境的应用准备情况。
 - [万物即代码](https://www.slideshare.net/dubsquared/eac-25454047) - 以代码搭建基础设施，以代码保证安全，以代码建立规范，以代码进行测试。
 - [降低发布的风险](http://slidesha.re/dsSZIr)
