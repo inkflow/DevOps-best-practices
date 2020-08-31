@@ -14,7 +14,7 @@ DevOps在不断演变。目前，DevOps[不存在认证、角色、系列工具�
 
 _注：以下实践准则已经按它们最合适出现的阶段划分，以望读者能更容易地理解……虽然并不能保证这种划分一定准确。_
 
-## 从瀑布模型到敏捷流程
+## 从瀑布到敏捷
 
 - [人才是关键](https://techbeacon.com/psychology-devops-understanding-people-key-success) - 一开始就把所有人聚集在一起起。保持站会。 让每个人都能更轻易地知道发生了什么。
 - [是产品而不是项目](https://www.madetech.com/blog/products-not-projects) - 交付团队从软件上线到下线，运转的是软件产品而不是项目。
@@ -39,20 +39,20 @@ _注：以下实践准则已经按它们最合适出现的阶段划分，以望�
 
 ## 从敏捷到精益
 
-- [Continuous Improvement](https://en.wikipedia.org/wiki/Kaizen) - An “improvement,” or “change for the better” which refers to a philosophy or practices that focus on continuous improvement of processes in manufacturing, engineering, game development, and business management.
-- [Reduce waste](https://itrevolution.com/japanese-words-for-devops-practitioners/)
-- [No silos](https://continuousdelivery.com/2012/10/theres-no-such-thing-as-a-devops-team/) - Cross-functional teams and T-shaped people, an attitude of shared responsibility is an aspect of DevOps culture that encourages closer [collaboration](https://blog.chef.io/2017/03/01/devops-is-all-about-collaboration/).
-- [Key Performance Indicators](https://www.atlassian.com/devops#measurement) - Management thinker Peter Drucker is often quoted as saying that "you can't improve what you can't measure".
-- [Non-Functional Requirements as user stories](https://legacy.devopsdays.org/blog/wp-content/uploads/2010/02/rachel-davies-nonfunctional-devopsdays.pdf)
+- [持续改进](https://en.wikipedia.org/wiki/Kaizen) - “改进”，或者说“变得更好”，指的是专注于持续改进制造、工程、游戏开发、业务管理的流程的理念或实践。
+- [减少浪费(https://itrevolution.com/japanese-words-for-devops-practitioners/)
+- [别做孤岛](https://continuousdelivery.com/2012/10/theres-no-such-thing-as-a-devops-team/) - 跨职能团队，T型能力者，共同承担责任的态度是DevOps的文化内容之一，DevOps鼓励紧密的[协作](https://blog.chef.io/2017/03/01/devops-is-all-about-collaboration/)。
+- [关键绩效指标](https://www.atlassian.com/devops#measurement) - 管理学思想家“彼得·德鲁克”经常被引述的话是，“你无法改善那些你无法量化的（指标）”。
+- [用户故事的非功能需求](https://legacy.devopsdays.org/blog/wp-content/uploads/2010/02/rachel-davies-nonfunctional-devopsdays.pdf)
 - [Minimum viable product](http://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
-- [A journey, not a destination](https://notafactoryanymore.com/2015/08/14/a-personal-devops-journey-or-a-never-ending-journey-to-mastery/)
-- [Embrace change](https://www.theregister.co.uk/2016/01/15/devops_people_problem/)
-- [Build the right thing, then build it the right way](https://barryoreilly.com/2016/10/06/10-principles-to-transform/)
-- [Lean startup](http://ecorner.stanford.edu/videos/2329/Evangelizing-for-the-Lean-Startup-Entire-Talk)
-- [People over process](https://jezhumble.net/2007/09/11/line-management.html)
-- [Test at the appropriate level](https://www.mountaingoatsoftware.com/blog/the-forgotten-layer-of-the-test-automation-pyramid)
-- [High trust culture](https://gotocon.com/dl/goto-cph-sept-2014/slides/JezHumble_LeanEnterprisePartII.pdf)
-- [Address Technical Debt](https://18f.gsa.gov/2015/09/04/what-is-technical-debt/)
+- [一场旅程，而不是目的地](https://notafactoryanymore.com/2015/08/14/a-personal-devops-journey-or-a-never-ending-journey-to-mastery/)
+- [拥抱变化](https://www.theregister.co.uk/2016/01/15/devops_people_problem/)
+- [构建正确的事物，以正确方式构建](https://barryoreilly.com/2016/10/06/10-principles-to-transform/)
+- [开启精益](http://ecorner.stanford.edu/videos/2329/Evangelizing-for-the-Lean-Startup-Entire-Talk)
+- [人员重于流程](https://jezhumble.net/2007/09/11/line-management.html)
+- [在适当的水平上测试](https://www.mountaingoatsoftware.com/blog/the-forgotten-layer-of-the-test-automation-pyramid)
+- [高信任度的文化](https://gotocon.com/dl/goto-cph-sept-2014/slides/JezHumble_LeanEnterprisePartII.pdf)
+- [解决技术债务](https://18f.gsa.gov/2015/09/04/what-is-technical-debt/)
 
 ## 从精益到持续集成
 
