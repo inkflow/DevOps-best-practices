@@ -56,50 +56,50 @@ _注：以下实践准则已经按它们最合适出现的阶段划分，以望�
 
 ## 从精益到持续集成
 
-- ["cattle rather than pets"](https://www.theregister.co.uk/2013/03/18/servers_pets_or_cattle_cern/) - the paradigm of disposable server infrastructure.
-- [Achieving 10 deployments per day](https://www.youtube.com/watch?v=LdOe18KhtT4) - the story of how Flickr adopted DevOps.
-- [Continuous Integration](https://martinfowler.com/bliki/ContinuousIntegrationCertification.html) - When the build fails, it’s usually back to green within ten minutes.
-- [Quality Built In](https://www.slideshare.net/AndrewDzynia/quality-built-in/) - Build quality in, from start to end. Quality is not something you tack on the end.
-- [Zero Bugs](http://schd.ws/hosted_files/aatc2017/c9/Zero%20Bugs.pdf)
-- [Don't fire the QA](https://www.thoughtworks.com/insights/blog/qa-role-what-it-really) - Are we building the correct product? If so, are we building it correctly?
-- [Automation](https://dzone.com/articles/what-is-devops-and-how-automation-helps-achieve-it)
-- [Test Automation](https://www.atlassian.com/blog/devops/test-automation-secret-devops-success)
-- [Automation over documentation](https://githubengineering.com/runnable-documentation/)
-- [Shift left](https://dzone.com/articles/the-shift-left-principle-and-devops-1)
-- [Testing as code](http://www.bbc.co.uk/blogs/internet/entries/ff14236d-098a-3565-b678-ff4ba5776a5f) - Use the gherkin language "[Business Readable, Domain Specific Language](https://martinfowler.com/bliki/BusinessReadableDSL.html)", for manual as well as automated. Keep all your tests with your code, use version control to track changes.
+- ["奶牛而不是宠物"](https://www.theregister.co.uk/2013/03/18/servers_pets_or_cattle_cern/) - 可自由支配的服务器基础架构的范例。
+- [每天部署十次](https://www.youtube.com/watch?v=LdOe18KhtT4) - 关于Flickr如何应用DevOps的故事。
+- [持续集成](https://martinfowler.com/bliki/ContinuousIntegrationCertification.html) - 当构建失败时，它通常会在十分钟内回滚至绿色（正常）状态。
+- [内建质量](https://www.slideshare.net/AndrewDzynia/quality-built-in/) - 质量内建，从始至终。质量不该是你到最后才附加进来的东西.
+- [零BUG](http://schd.ws/hosted_files/aatc2017/c9/Zero%20Bugs.pdf)
+- [质量检查不是靶子](https://www.thoughtworks.com/insights/blog/qa-role-what-it-really) - 我们在构建正确的产品吗？如果是的话，我们构建它的方式正确吗？
+- [自动化](https://dzone.com/articles/what-is-devops-and-how-automation-helps-achieve-it)
+- [自动化测试](https://www.atlassian.com/blog/devops/test-automation-secret-devops-success)
+- [文档自动化](https://githubengineering.com/runnable-documentation/)
+- [要素左移](https://dzone.com/articles/the-shift-left-principle-and-devops-1)
+- [测试代码](http://www.bbc.co.uk/blogs/internet/entries/ff14236d-098a-3565-b678-ff4ba5776a5f) - 使用Gherkin语言规范 "[业务可读的，特定领域的语言](https://martinfowler.com/bliki/BusinessReadableDSL.html)"，无论是手动还是自动测试。保留所有的代码测试，使用版本控制追踪变更。
 
 ## 从持续集成到持续交付
 
-- [Continuous Delivery](https://techbeacon.com/agile-devops-continuous-delivery-evolution-software-delivery) - Continuous Delivery is a key part of the evolution of adopting a DevOps culture.
-- [Deployment Pipelines](https://continuousdelivery.com/implementing/patterns/) - Get humans out of the deployment business. Create a repeatable, reliable process for releasing software.
-- [Trunk based Development](https://www.thoughtworks.com/insights/blog/enabling-trunk-based-development-deployment-pipelines) - Moving to trunk-based development is an ([essential step in getting to continuous deployment](https://engineering.moonpig.com/development/move-to-trunk-based-development-without-the-chaos)).
-- [Production-ready software](https://www.slideshare.net/jezhumble/devops-and-agile-release-management) - Fast, automated feedback on the production readiness of your applications every time there is a change - to code, infrastructure, or configuration.
-- [Everything as code](https://www.slideshare.net/dubsquared/eac-25454047) - Infrastructure as Code, Security as Code, Compliance as Code, Testing as Code.
-- [Reduce the risk of releasing](http://slidesha.re/dsSZIr)
-- [Automate (almost) everything](https://www.thoughtworks.com/insights/blog/automate-almost-everything)
-- [Securing Software through Continuous Delivery](https://www.oreilly.com/learning/devopssec-securing-software-through-continuous-delivery)
-- [Focus on mean time to recovery](https://www.thoughtworks.com/radar/techniques/focus-on-mean-time-to-recovery)
-- [Pipelines as code](http://inedo.com/blog/pipelines-as-code-how-you-can-fully-embrace-agile-and-devops)
-- [Decrease lead time](https://techbeacon.com/doing-continuous-delivery-focus-first-reducing-release-cycle-times)
+- [持续交付](https://techbeacon.com/agile-devops-continuous-delivery-evolution-software-delivery) - 持续交付是融入DevOps文化的发展进程中的关键一步。
+- [部署流水线](https://continuousdelivery.com/implementing/patterns/) - 让人工远离部署工作。创造一组可重复的、可靠的软件发布流程。
+- [基于主干的开发](https://www.thoughtworks.com/insights/blog/enabling-trunk-based-development-deployment-pipelines) - 转向主干开发模式是([走向持续部署的重要一步](https://engineering.moonpig.com/development/move-to-trunk-based-development-without-the-chaos)).
+- [生产就绪型软件](https://www.slideshare.net/jezhumble/devops-and-agile-release-management) - 每次变更代码、基础设施、配置时，都能快速、自动地反馈生产环境的应用准备情况。
+- [万物即代码](https://www.slideshare.net/dubsquared/eac-25454047) - 以代码搭建基础设施，以代码保证安全，以代码建立规范，以代码进行测试。
+- [降低发布的风险](http://slidesha.re/dsSZIr)
+- [让每件事都自动化](https://www.thoughtworks.com/insights/blog/automate-almost-everything)
+- [通过持续交付来保证软件安全可用](https://www.oreilly.com/learning/devopssec-securing-software-through-continuous-delivery)
+- [重视平均恢复时间](https://www.thoughtworks.com/radar/techniques/focus-on-mean-time-to-recovery)
+- [流水线即代码](http://inedo.com/blog/pipelines-as-code-how-you-can-fully-embrace-agile-and-devops)
+- [减少交付时间](https://techbeacon.com/doing-continuous-delivery-focus-first-reducing-release-cycle-times)
 
 ## 从持续交付到持续部署
 
-- [Feature Toggles](https://martinfowler.com/bliki/FeatureToggle.html) rather than feature branches, avoiding merge hell and more control over features and deployments.
-- [Infrastructure as Code](https://stochasticresonance.wordpress.com/2009/07/12/infrastructure-renaissance/) - Using orchestration and provisioning tools such as Terraform, Docker, Kubernetes, Ansible, Chef, Puppet.
-- [Done means released](https://blog.codecentric.de/en/2010/10/devopsdays-in-hamburg-%E2%80%9Cdone%E2%80%9D-means-released/)
-- [Everybody is responsible for delivery](http://blog.macisaacconsulting.com/continuous-delivery-everybody-responsible-quality/)
+- [特性切换](https://martinfowler.com/bliki/FeatureToggle.html) 比起建立特性分支，更应该努力避免陷入分支合并的地狱，对特性和部署有更强的控制。
+- [基础架构即代码](https://stochasticresonance.wordpress.com/2009/07/12/infrastructure-renaissance/) - 使用设计和配置工具，诸如Terraform, Docker, Kubernetes, Ansible, Chef, Puppet.
+- [完成意味着释放](https://blog.codecentric.de/en/2010/10/devopsdays-in-hamburg-%E2%80%9Cdone%E2%80%9D-means-released/)
+- [每个人都对交付负责](http://blog.macisaacconsulting.com/continuous-delivery-everybody-responsible-quality/)
 
 ## 从持续部署到持续运维
 
-- [Blue Green Deployments](https://martinfowler.com/bliki/BlueGreenDeployment.html)
-- [Put devs on call](https://victorops.com/putting-devs-on-call/) - Developers are responsible for monitoring and alerting
-- [High Scalability](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)
-- [Moving from Monoliths to Microservices](https://gotocon.com/amsterdam-2016/presentation/Journey%20from%20Monolith%20to%20Microservices%20and%20DevOps)
-- [Data-driven products](https://medium.com/@neal_lathia/what-do-we-mean-when-we-talk-about-data-driven-products-127ceb3e6cf)
-- [Performance testing as a first-class citizen](https://internetperformanceexpert.com/2013/09/26/treat-performance-as-a-first-class-citizen/)
-- [Embrace NoSQL](https://diginomica.com/category/devops-stack/)
-- [Immutable infrastructure](https://dzone.com/articles/why-you-should-build-immutable)
-- [Big data](http://blog.syncsort.com/2017/04/big-data/big-data-and-devops/)
-- [Platform as a service](https://blogs.msdn.microsoft.com/brunoterkaly/2014/04/17/the-devops-story-why-it-is-really-about-platform-as-a-service/)
-- [Cloud](https://www.infoq.com/articles/cloud-and-devops)
-- [Design for failure](https://martinfowler.com/articles/microservices.html#DesignForFailure)
+- [蓝绿部署](https://martinfowler.com/bliki/BlueGreenDeployment.html)
+- [让开发人员待命](https://victorops.com/putting-devs-on-call/) - 开发人员也应该对监控和告警负责。
+- [高可扩展性](http://highscalability.com/blog/2015/1/12/the-stunning-scale-of-aws-and-what-it-means-for-the-future-o.html)
+- [从大应用转向微服务](https://gotocon.com/amsterdam-2016/presentation/Journey%20from%20Monolith%20to%20Microservices%20and%20DevOps)
+- [数据驱动的产品](https://medium.com/@neal_lathia/what-do-we-mean-when-we-talk-about-data-driven-products-127ceb3e6cf)
+- [以第一类实体作性能测试](https://internetperformanceexpert.com/2013/09/26/treat-performance-as-a-first-class-citizen/)
+- [拥抱无SQL](https://diginomica.com/category/devops-stack/)
+- [不变的基础设施](https://dzone.com/articles/why-you-should-build-immutable)
+- [大数据](http://blog.syncsort.com/2017/04/big-data/big-data-and-devops/)
+- [平台即服务](https://blogs.msdn.microsoft.com/brunoterkaly/2014/04/17/the-devops-story-why-it-is-really-about-platform-as-a-service/)
+- [云](https://www.infoq.com/articles/cloud-and-devops)
+- [失败容忍度设计](https://martinfowler.com/articles/microservices.html#DesignForFailure)
